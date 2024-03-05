@@ -45,6 +45,19 @@
   margin-bottom: var(--mb-2-5);
 }
 
+a {
+  position: relative;
+  margin-left: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.language {
+  position: absolute;
+  top: 63%;
+  left: 35%;
+  font-size: var(--smaller-font-size);
+}
+
 /* BREAK POINTS */
 @media screen and (max-width: 992px) {
   .about__container {
