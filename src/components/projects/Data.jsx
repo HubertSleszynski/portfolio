@@ -49,15 +49,18 @@ export const projectsData = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla, sunt architecto! Harum provident assumenda corrupti est, nam magnam consequatur quam quisquam inventore ducimus, ex voluptatibus impedit pariatur modi quia rem!",
     category: "Basics",
+    live: "https://hubertsleszynski.github.io/four-logical-games/",
+    github: "https://github.com/HubertSleszynski/four-logical-games",
   },
   {
     id: 6,
     image: work5,
-    title: "Word Counter",
-    technologies: "HTML CSS JS",
-    description:
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni voluptas voluptates modi asperiores facilis dignissimos rerum quis at, sit ullam velit dolorum harum, ut dolores nemo! Animi possimus architecto fugiat.",
+    title: "To Do List",
+    technologies: "HTML CSS JS REACT",
+    description: "Could a resume be completed without it?",
     category: "Basics",
+    live: "https://hubertsleszynski.github.io/to-do-list/",
+    github: "https://github.com/HubertSleszynski/to-do-list",
   },
 ];
 

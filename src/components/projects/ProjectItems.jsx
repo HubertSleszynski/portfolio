@@ -8,10 +8,10 @@ const ProjectItems = ({ item }) => {
       <p className="project__technologies">{item.technologies}</p>
       <p className="project__description">{item.description}</p>
       <div className="project__buttons">
-        <a href="#" className="project__button">
+        <a href={item.github} target="_blank" className="project__button">
           <i className="bx bxl-github"></i>
         </a>
-        <a href="#" className="project__button">
+        <a href={item.live} target="_blank" className="project__button">
           <i className="bx bx-code-alt"></i>
         </a>
       </div>

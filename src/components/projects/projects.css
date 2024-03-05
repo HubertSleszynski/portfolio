@@ -47,7 +47,6 @@
   margin-bottom: var(--mb-0-5);
 }
 
-.project__title,
 .project__description {
   color: var(--title-color);
   text-align: justify;
@@ -58,6 +57,12 @@
 }
 .project__technologies {
   word-spacing: 0.1rem;
+}
+
+.project__buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
 }
 
 .project__button {
@@ -97,7 +102,7 @@
 
   .project__img {
     margin-bottom: 0.75rem;
-    width: 75%;
+    /* width: 75%; */
   }
 
   .project__title {
@@ -107,11 +112,14 @@
 
 @media screen and (max-width: 768px) {
   .project__img {
-    width: 100%;
+    width: 75%;
   }
 }
 
 @media screen and (max-width: 576px) {
+  .project__img {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 350px) {
