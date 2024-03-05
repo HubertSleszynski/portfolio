@@ -1,13 +1,12 @@
-import work1 from "../../assets/work1.jpg";
-import work2 from "../../assets/work2.jpg";
+import toDoList from "../../assets/to-do-list.png";
+import logicalGames from "../../assets/logical-games.png";
 import work3 from "../../assets/work3.jpg";
 import work4 from "../../assets/work4.jpg";
-import work5 from "../../assets/work5.jpg";
 
 export const projectsData = [
   {
     id: 1,
-    image: work1,
+    image: work3,
     title: "E-commerce shop UI",
     technologies: "",
     description:
@@ -16,7 +15,7 @@ export const projectsData = [
   },
   {
     id: 2,
-    image: work2,
+    image: work3,
     title: "Book searching app",
     technologies: "",
     description:
@@ -43,7 +42,7 @@ export const projectsData = [
   },
   {
     id: 5,
-    image: work5,
+    image: logicalGames,
     title: "Logical games",
     technologies: "HTML CSS JS",
     description:
@@ -54,7 +53,7 @@ export const projectsData = [
   },
   {
     id: 6,
-    image: work5,
+    image: toDoList,
     title: "To Do List",
     technologies: "HTML CSS JS REACT",
     description: "Could a resume be completed without it?",
