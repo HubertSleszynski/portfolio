@@ -8,7 +8,7 @@ export default function Info() {
       </div>
       <div className="about__box">
         <i className="bx bx-briefcase-alt"></i>
-        <h3 className="about__title">Apprenticeships</h3>
+        <h3 className="about__title">Internship</h3>
         <span className="about__subtitle">Inn-tek</span>
       </div>
       <div className="about__box">
