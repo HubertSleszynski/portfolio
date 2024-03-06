@@ -1,6 +1,7 @@
 import "./about.css";
 import AboutImg from "../../assets/about.jpg";
-import CV from "../../assets/Hubert Śleszyński - polish.pdf";
+import CVPL from "../../assets/Hubert Śleszyński - polish.pdf";
+import CVENG from "../../assets/Hubert Śleszyński - english.pdf";
 import Info from "./Info";
 
 export default function About() {
@@ -23,7 +24,7 @@ export default function About() {
             honing my skills, I am poised to make meaningful strides in the
             realm of web development.
           </p>
-          <a download="" href={CV} className="button button--flex">
+          <a download="" href={CVENG} className="button button--flex">
             Download CV
             <svg
               className="button__icon"
@@ -52,7 +53,7 @@ export default function About() {
             </svg>
             <p className="language">(english)</p>
           </a>
-          <a download="" href={CV} className="button button--flex">
+          <a download="" href={CVPL} className="button button--flex">
             Download CV
             <svg
               className="button__icon"
