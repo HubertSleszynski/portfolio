@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.edad8d51.css",
-    "main.js": "/portfolio/static/js/main.e48388cc.js",
+    "main.js": "/portfolio/static/js/main.56322cbc.js",
     "static/media/hrs.library.png": "/portfolio/static/media/hrs.library.fe77b116bc084b5b3331.png",
+    "static/media/online-courses.png": "/portfolio/static/media/online-courses.44afd4cc54d07978c194.png",
     "static/media/to-do-list.png": "/portfolio/static/media/to-do-list.1c56180e4b9732c3f86f.png",
     "static/media/logical-games.png": "/portfolio/static/media/logical-games.f69ea3733f7612492f0f.png",
     "static/media/about.jpg": "/portfolio/static/media/about.94b590cd553dd3a5a2b5.jpg",
@@ -12,10 +13,10 @@
     "static/media/work1.jpg": "/portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "index.html": "/portfolio/index.html",
     "main.edad8d51.css.map": "/portfolio/static/css/main.edad8d51.css.map",
-    "main.e48388cc.js.map": "/portfolio/static/js/main.e48388cc.js.map"
+    "main.56322cbc.js.map": "/portfolio/static/js/main.56322cbc.js.map"
   },
   "entrypoints": [
     "static/css/main.edad8d51.css",
-    "static/js/main.e48388cc.js"
+    "static/js/main.56322cbc.js"
   ]
 }
