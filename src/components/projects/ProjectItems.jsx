@@ -12,7 +12,7 @@ const ProjectItems = ({ item }) => {
           <i className="bx bxl-github"></i>
         </a>
         <a href={item.live} target="_blank" className="project__button">
-          <i className="bx bx-code-alt"></i>
+          <i class="bx bx-right-top-arrow-circle"></i>
         </a>
       </div>
     </div>
